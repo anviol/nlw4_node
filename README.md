@@ -1,2 +1,2 @@
 # nlw4_node
-Projeto NLW#4 rota NODE.
+Projeto NLW#4 trilha NODE.
